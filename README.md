@@ -3,6 +3,8 @@ Structure DB for x64dbg and OllyDbg
 
 
 # x64dbg
+다음 링크 참고 [http://sanseolab.tistory.com/54]
+
 #### TEB
 #### PEB
 #### PEB_LDR_DATA
@@ -30,4 +32,6 @@ Structure DB for x64dbg and OllyDbg
 
 
 # OllyDbg
-Not Yet
+"Not Yet"
+
+다음 링크 참고 [https://reverseengineering.stackexchange.com/questions/11893/creating-my-own-custom-structure-in-ollydbg]
