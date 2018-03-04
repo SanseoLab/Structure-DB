@@ -1,3 +1,6 @@
+// 32bit
+
+
 typedef uint8_t BYTE;
 typedef char TCHAR;
 typedef uint16_t WORD;
